@@ -1,0 +1,2 @@
+# Goodman-Data-Analytics
+A list of visuals of data management files
